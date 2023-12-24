@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Himani Aryan</h1>
 <h3 align="center">A passionate data scientist and analyst with a knack for transforming raw data into meaningful insights.</h3>
-<img align=“right” alt = “Coding” width = “400” src =“https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm.gif”> 
+<img align=“right” alt = “Coding” width = “400” src =“https://giphy.com/gifs/talk-dirty-to-me-similarweb-nerdy-SvckSy7fFviqrq8ClF”> 
 
 - 🌱 I’m currently learning **Advanced Data Analysis using Python**
 
